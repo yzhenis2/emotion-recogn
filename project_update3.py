@@ -1,5 +1,5 @@
 #Yelaman Zhenis
-#CSCI 6397 SPECIAL TOPICS Multimedia 
+
 #Facial Emotion Recognition
 #####################################
 #Description:
